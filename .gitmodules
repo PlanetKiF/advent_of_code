@@ -22,3 +22,6 @@
 [submodule "2022/oechslein"]
 	path = 2022/oechslein
 	url = git@github.com:oechslein/AdventOfCode2022.git
+[submodule "2022/aha5811"]
+	path = 2022/aha5811
+	url = git@github.com:aha5811/AoC2022.git
